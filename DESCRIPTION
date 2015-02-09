@@ -1,0 +1,11 @@
+Package: ZeligBLME
+Version: 0.1
+Date: 2015-02-09
+Title: A Zelig Model
+Author: Benjamin Soltoff
+Maintainer: Benjamin Soltoff <ben@bensoltoff.com>
+Depends: Zelig
+Description: A Zelig Model
+License: GPL (>=2)
+URL: http://gking.harvard.edu/zelig
+Packaged: Mon Feb 09 16:27:06 2015
